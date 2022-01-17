@@ -5,4 +5,9 @@ tao a C2
 tao a C2 
 
 C3 update
+<<<<<<< HEAD
 >>>>>>> 839be33 (C3 update)
+=======
+
+C4 aaaaa
+>>>>>>> 6824cbb (C4)
