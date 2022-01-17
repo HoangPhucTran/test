@@ -4,7 +4,7 @@ tao a C2
 =======
 tao a C2 
 
-C3 update
+C3 tao xugng dot ne update
 <<<<<<< HEAD
 >>>>>>> 839be33 (C3 update)
 =======
